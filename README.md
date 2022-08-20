@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bayomio (Yomi)
-- 👀 I’m interested in financial inclusion, SaaS, Impact Investment and Sustainability
+- 👀 I’m interested in financial inclusion, SaaS, impact investments and sustainability
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on open source projects for impact!
 - 📫 How to reach me: shoot an email to hi[at]abayomi.xyz
