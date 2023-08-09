@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bayomio (Yomi)
+- 👋 Hi, I’m @bayomio (Yomi Ogunleye)
 - 👀 I’m interested in financial inclusion, SaaS, impact investments and sustainability
 - 🌱 I’m currently learning about data science
 - 💞️ I’m looking to collaborate on open source projects for impact!
