@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects for impact!
 - 📫 How to reach me: shoot an email to hi[at]abayomi.xyz
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bayomio)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bayomio-ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![Yomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayomio&show_icons=true&count_private=true) -->
 
